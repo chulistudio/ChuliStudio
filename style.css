@@ -20,3 +20,33 @@ footer { text-align: center; padding: 20px; color: #555; margin-top: 40px; font-
   .card { box-shadow: none; border: 1px solid #ddd; }
   header, nav, footer { display: none; }
 }
+<article>
+    <h2>TIPS DE ESTUDIO</h2>
+<img src=Istorageemulated/o/Pictures/Canva/Banner  para  canal  de  youtube  divertido  Rosado  _20251102_O10957_0000.jpg >
+
+    <p>¿Te cuesta llegar con las materias en tiempo y forma? No te preocupes, no estás sola/o. Muchos estudiantes enfrentan los mismos desafíos, y existen métodos efectivos para organizarse mejor y estudiar de manera más eficiente.</p>
+    
+    <p><strong>Técnicas de estudio más usadas:</strong></p>
+    <ul>
+        <li><strong>Pomodoro:</strong> Estudiar 25-30 minutos y descansar 5 minutos para mantener la concentración.</li>
+        <li><strong>Resúmenes y esquemas:</strong> Sintetizar la información ayuda a recordar y entender mejor los conceptos.</li>
+        <li><strong>Horarios fijos:</strong> Establecer bloques de estudio según tu ritmo y energía diaria.</li>
+        <li><strong>Lugares cómodos:</strong> Elegir un espacio con buena luz, silencioso y con pocos distractores.</li>
+        <li><strong>Repasos frecuentes:</strong> Revisar los temas varias veces en días distintos para consolidar la memoria.</li>
+    </ul>
+
+    <p><strong>Tips de bienestar:</strong> Tomá descansos, salí a pasear, relajate y no te estreses demasiado. Estudiar también incluye cuidar tu mente y tu cuerpo.</p>
+
+    <div class="tags">
+        <span>estudio</span>
+        <span>organización</span>
+        <span>productividad</span>
+        <span>metodos</span>
+        <span>eficiente</span>
+    </div>
+
+    <a href="#" class="read-more">Leer más</a>
+
+    <p style="margin-top:15px; font-style:italic; color:#555;">“Cada pequeño esfuerzo que hagas hoy te acerca más a tus metas d
+e mañana.”</p>
+</article>
